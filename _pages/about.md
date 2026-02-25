@@ -1,22 +1,31 @@
-Dr. Zahreddine Bouslama
-Behavioural Real Estate Finance (Europe) — Researcher & Practitioner
-Focus: behavioural biases, housing markets, econometrics, reproducible analytics (Python).
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from:
+  - /about/
+---
 
-Current focus
-EU Housing Herding (CSAD): dispersion-based herding tests using Eurostat HPI (2015–2025)
-Repo: https://github.com/zeno-byte/eu-hpi-herding-csad
-Research interests
-Behavioural finance in real asset markets
-Housing market integration vs structural segmentation (EU)
-Macroprudential policy and systemic risk
-Reproducible research pipelines (Python)
-Professional practice
-Evidence-based market analysis, training, and research-informed tools for real estate decision-making
-(I do not provide financial advice.)
+I am **Dr. Zahreddine Bouslama**, working at the intersection of **behavioural finance** and **real estate economics**, with a focus on **European housing markets** (Luxembourg and neighbouring markets).
 
-Links
-Website (GitHub Pages): https://github.com/ZahreddineBouslama/eu-hpi-herding-csad
-Working paper
-LinkedIn: (https://www.linkedin.com/in/zahreddine-b-29192214/)
-Google Scholar / ORCID: (https://orcid.org/0000-0002-2904-5654)
-Contact
+My work combines **econometric modelling**, **institutional analysis**, and **reproducible computational research (Python)** to study how behavioural biases (e.g., herding, expectation formation) interact with market structure and regulation in illiquid asset classes.
+
+## Current focus
+- **Herding Behaviour in European Union Housing Markets (2015–2025)**  
+  Dispersion-based herding test using the **CSAD** framework and Eurostat HPI data.  
+  Replication code: https://github.com/ZahreddineBouslama/eu-hpi-herding-csad
+
+## Research interests
+- Behavioural biases in real asset markets  
+- Housing market integration vs. structural segmentation (EU)  
+- Macroprudential policy and systemic risk transmission  
+- Reproducible research pipelines (Python)
+
+## Professional practice
+I also produce research-informed analysis and educational outputs for professional audiences in real estate and finance.  
+*(No investment advice.)*
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/zahreddine-b-29192214/
+- ORCID: https://orcid.org/0000-0002-2904-5654
+- GitHub: https://github.com/ZahreddineBouslama

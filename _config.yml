@@ -26,7 +26,7 @@ permalink: /:categories/:title/
 # -------------------------------
 
 author:
-  avatar: "profile.png"   # place your image in /images/
+  avatar: "profile.jpg"   # place your image in /images/
   name: "Dr. Zahreddine Bouslama"
   bio: "Behavioural Real Estate Finance (Europe)"
   location: "Luxembourg / Europe"

@@ -1,7 +1,8 @@
 # -------------------------------
 # Site Settings
 # -------------------------------
-
+include:
+  - _pages
 locale: "en-US"
 site_theme: "default"
 

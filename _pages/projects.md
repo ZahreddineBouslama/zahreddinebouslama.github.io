@@ -4,16 +4,11 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Research Projects
+## Projects
 
-### EU HPI Herding (CSAD)
+### EU HPI Herding (CSAD Framework)
 
-Empirical test of cross-sectional dispersion and herding behaviour in European housing markets using Eurostat HPI data.
+Empirical dispersion-based test of herding dynamics in European housing markets using Eurostat HPI data (2015–2025).
 
-- Methodology: CSAD dispersion model  
-- Period: 2015–2025  
-- Implementation: Python  
-- Status: Working paper in preparation  
-
-Repository:
+Repository:  
 https://github.com/Zahreddinebouslama/eu-hpi-herding-csad

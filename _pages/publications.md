@@ -6,13 +6,6 @@ author_profile: true
 
 ## Working Paper
 
-**EU HPI Herding in European Housing Markets**  
-Dispersion-based evidence from Eurostat HPI data.
+Herding Behaviour in European Union Housing Markets (2015–2025)
 
 Status: Manuscript in preparation for journal submission.
-
----
-
-## Doctoral Thesis
-
-Details forthcoming.

@@ -1,41 +1,59 @@
 ---
 title: "About"
-permalink: /
-redirect_from:
-  - /about/
+permalink: /about/
 author_profile: true
 ---
 
-## Behavioural Real Estate Finance (Europe)
+## Research Profile
 
-I work at the intersection of behavioural finance and real estate economics, focusing on European housing markets — with particular relevance to Luxembourg and neighbouring EU markets. My research combines institutional analysis and econometric modelling with reproducible computational workflows to study how behavioural biases (e.g., herding, expectation formation) interact with market structure and regulation in illiquid asset classes.
+My work sits at the intersection of behavioural finance and real estate economics, with a regional focus on European housing systems and particular relevance to Luxembourg.
 
-### Flagship Reproducible Project
+I study how behavioural dynamics — including herding behaviour and expectation formation — interact with institutional structure, regulatory design, and macroprudential frameworks in housing markets. Given the illiquid and locally segmented nature of real estate, these dynamics may differ substantially from those observed in financial securities markets.
 
-**EU HPI Herding (CSAD)**  
-Dispersion-based herding tests using Eurostat House Price Index data (2015–2025).  
-Python implementation with full reproducible pipeline:
+Methodologically, my research combines:
 
-https://github.com/Zahreddinebouslama/eu-hpi-herding-csad
-
-### Research Interests
-
-- Behavioural biases in real asset markets  
-- Housing market integration vs structural segmentation (EU)  
-- Macroprudential policy and systemic risk  
-- Applied econometrics for illiquid assets  
-- Reproducible research infrastructure (Python + GitHub)
-
-### Professional Orientation
-
-Research-informed analysis and educational outputs for real estate professionals and policy-oriented audiences.
-
-> Research-informed analysis only. No investment advice.
+- Applied econometric modelling  
+- Cross-sectional dispersion frameworks (CSAD)  
+- Institutional and regulatory analysis  
+- Reproducible computational research (Python)
 
 ---
 
-**Links**
+## Current Working Paper
 
-- GitHub: https://github.com/Zahreddinebouslama  
-- ORCID: https://orcid.org/0000-0002-2904-5654  
-- LinkedIn: https://www.linkedin.com/in/zahreddine-b-29192214/
+### Herding Behaviour in European Union Housing Markets (2015–2025)
+
+This project applies a dispersion-based methodology to Eurostat House Price Index data to test for nonlinear herding effects across EU member states.
+
+The objective is to evaluate:
+
+- Whether housing markets exhibit behavioural convergence dynamics  
+- The degree of structural integration vs segmentation  
+- Potential macro-financial stability implications  
+
+Replication code and full research pipeline:  
+https://github.com/Zahreddinebouslama/eu-hpi-herding-csad
+
+Status: Manuscript in preparation.
+
+---
+
+## Teaching and Academic Interests
+
+I am interested in contributing to teaching in:
+
+- Behavioural Finance  
+- Real Estate Economics  
+- Applied Econometrics  
+- Housing Market Analysis (Europe)  
+- Reproducible Research Methods  
+
+My teaching philosophy integrates theoretical foundations with transparent empirical implementation.
+
+---
+
+## Professional Orientation
+
+In addition to academic research, I develop research-informed analytical outputs and educational materials for professional audiences in real estate and finance.
+
+> Research-informed analysis only. No investment advice.
